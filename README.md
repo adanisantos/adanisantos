@@ -11,5 +11,5 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-  <img alt="TOEFL ITP" src="![image](https://github.com/user-attachments/assets/e2e800ef-b025-47d5-b7cc-dfa1055c9e59)
+  <img alt="TOEFL ITP" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhome.unicruz.edu.br%2F2019%2F06%2Ftoefl-itp-na-unicruz%2F&psig=AOvVaw0B3CmFys30hObxYeOZCHYj&ust=1744674394491000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixrPaY1owDFQAAAAAdAAAAABAE
 "/>
