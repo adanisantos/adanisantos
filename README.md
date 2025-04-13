@@ -11,5 +11,5 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-  [img alt="TOEFL ITP" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhome.unicruz.edu.br%2F2019%2F06%2Ftoefl-itp-na-unicruz%2F&psig=AOvVaw0B3CmFys30hObxYeOZCHYj&ust=1744674394491000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixrPaY1owDFQAAAAAdAAAAABAE"]
+  [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhome.unicruz.edu.br%2F2019%2F06%2Ftoefl-itp-na-unicruz%2F&psig=AOvVaw1JcLtfseo_6sCfkAR4Ve_H&ust=1744675009849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj29Zmb1owDFQAAAAAdAAAAABAE" height="50"></a>]
 
